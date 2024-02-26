@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git + https://github.com/howieh2001/static-website-confession.git"
+        "url": "git+https://github.com/howieh2001/static-website-confession.git"
     },
     "keywords": [],
     "author": "Howie Luong",
@@ -19,6 +19,6 @@
     },
     "homepage": "https://github.com/howieh2001/static-website-confession/blob/main/README.md",
     "devDependencies": {
-        "server": "10.2.4"
+        "server": "^11.2.0"
     }
 }

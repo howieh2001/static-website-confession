@@ -1,0 +1,24 @@
+{
+    "name": "html",
+    "version": "1.0.0",
+    "description": "html guide",
+    "main": "index.html",
+    "scripts": {
+        "start": "server",
+        "build": "echo This is static template"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git + https://github.com/howieh2001/static-website-confession.git"
+    },
+    "keywords": [],
+    "author": "Howie Luong",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/howieh2001/static-website-confession/issues"
+    },
+    "homepage": "https://github.com/howieh2001/static-website-confession/blob/main/README.md",
+    "devDependencies": {
+        "server": "11.2.0"
+    }
+}

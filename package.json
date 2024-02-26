@@ -19,6 +19,6 @@
     },
     "homepage": "https://github.com/howieh2001/static-website-confession/blob/main/README.md",
     "devDependencies": {
-        "server": "^11.2.0"
+        "server": "20.11.1"
     }
 }
